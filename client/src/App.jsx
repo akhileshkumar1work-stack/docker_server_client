@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      <h1>Welcome to chaicode frontend</h1>
+      <h1>Welcome to my first frontend</h1>
       <h2>data {message}</h2>
     </>
   );
